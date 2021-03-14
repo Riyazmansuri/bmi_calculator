@@ -7,5 +7,5 @@ A BMI Calculator App build in Flutter
 This app calculates your BMI based on the input(height & weight).
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://imgflip.com/gif/51n3l0)
 
